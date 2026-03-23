@@ -1731,3 +1731,4 @@ show_footer()
 st.sidebar.markdown("---")
 st.sidebar.write("Built with Python, Streamlit, NumPy, Matplotlib, and SciPy")
 st.sidebar.caption("Keep your logo image in the same folder as this file with name: nec_logo.png")
+ 
